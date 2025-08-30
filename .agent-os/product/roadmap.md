@@ -7,7 +7,7 @@
 
 ### Features
 
-- [ ] User authentication and verification system - Email/phone verification with basic profile management `L`
+- [x] User authentication and verification system - Email/phone verification with basic profile management `L`
 - [ ] Free item listings - Simple listing creation with FIFO claim queue `M`
 - [ ] Fixed price with offers - Public offer system with seller acceptance/decline `M`
 - [ ] Basic search and filtering - PostgreSQL full-text search with category and location filters `L`
